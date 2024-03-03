@@ -7,3 +7,10 @@ You Can Install <a href="https://nodejs.org/en/download" target="blank" >Here</a
 Random Rename --> `node random_rename.js`
 <br></br>
 Regular Rename --> `node regular_rename.js`
+<br></br><br></br>
+# Extract-All-Files
+
+require adm-zip --> `npm i adm-zip`
+<br></br>
+require adm-zip --> `node extractto.js`
+
