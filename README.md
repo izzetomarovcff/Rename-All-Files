@@ -12,5 +12,5 @@ Regular Rename --> `node regular_rename.js`
 
 require adm-zip --> `npm i adm-zip`
 <br></br>
-require adm-zip --> `node extractto.js`
+Extract All --> `node extractto.js`
 
